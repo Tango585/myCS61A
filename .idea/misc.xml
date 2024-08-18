@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="D:\TOOLS\anaconda\envs\forPython" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="D:\TOOLS\anaconda\envs\forPython" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="forPython" project-jdk-type="Python SDK" />
 </project>
