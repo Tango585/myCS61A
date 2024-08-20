@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4270d111-2595-4074-b4c4-6116d3ec500f" name="Changes" comment="lab00">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pythonProject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
+    <list default="true" id="4270d111-2595-4074-b4c4-6116d3ec500f" name="Changes" comment="install lab01">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab00/lab00.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/lab00/lab00.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab00/tests/python-basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/lab00/tests/python-basics.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Tango585&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Tango585/myCS61A.git&quot;,
+    &quot;accountId&quot;: &quot;e9b0c2b8-4a6c-4130-87c6-3327a1fb19c6&quot;
+  }
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -51,11 +59,11 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "settings.editor.selected.configurable": "Errors",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.main">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject" />
       <option name="ENV_FILES" value="" />
@@ -126,7 +134,8 @@
       <updated>1723954754676</updated>
       <workItem from="1723954760692" duration="612000" />
       <workItem from="1723959570268" duration="5357000" />
-      <workItem from="1723969677672" duration="1527000" />
+      <workItem from="1723969677672" duration="3283000" />
+      <workItem from="1724159098373" duration="494000" />
     </task>
     <task id="LOCAL-00001" summary="test1">
       <option name="closed" value="true" />
@@ -144,16 +153,37 @@
       <option name="project" value="LOCAL" />
       <updated>1723966531935</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="complete lab00">
+      <option name="closed" value="true" />
+      <created>1723971389147</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1723971389147</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test1" />
     <MESSAGE value="lab00" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab00" />
+    <MESSAGE value="complete lab00" />
+    <MESSAGE value="install lab01" />
+    <option name="LAST_COMMIT_MESSAGE" value="install lab01" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
