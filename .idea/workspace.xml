@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4270d111-2595-4074-b4c4-6116d3ec500f" name="Changes" comment="install lab01">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab01/lab01.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/lab01/lab01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab01/tests/control.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/lab01/tests/control.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lab/lab01/tests/debugging-quiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lab/lab01/tests/debugging-quiz.py" afterDir="false" />
-    </list>
+    <list default="true" id="4270d111-2595-4074-b4c4-6116d3ec500f" name="Changes" comment="complete lab01" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,23 +44,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python tests.Doctests in lab00.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.test.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "D:/TOOLS/anaconda/Scripts/conda.exe",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python tests.Doctests in lab00.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/TOOLS/anaconda/Scripts/conda.exe&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.main">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="pythonProject" />
@@ -139,7 +134,7 @@
       <workItem from="1723959570268" duration="5357000" />
       <workItem from="1723969677672" duration="3283000" />
       <workItem from="1724159098373" duration="494000" />
-      <workItem from="1724159605398" duration="6601000" />
+      <workItem from="1724159605398" duration="6695000" />
     </task>
     <task id="LOCAL-00001" summary="test1">
       <option name="closed" value="true" />
@@ -173,7 +168,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724159682741</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="complete lab01">
+      <option name="closed" value="true" />
+      <created>1724166413416</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1724166413416</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,7 +198,8 @@
     <MESSAGE value="lab00" />
     <MESSAGE value="complete lab00" />
     <MESSAGE value="install lab01" />
-    <option name="LAST_COMMIT_MESSAGE" value="install lab01" />
+    <MESSAGE value="complete lab01" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete lab01" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
