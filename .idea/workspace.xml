@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4270d111-2595-4074-b4c4-6116d3ec500f" name="Changes" comment="complete lab01">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4270d111-2595-4074-b4c4-6116d3ec500f" name="Changes" comment="complete hw01" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,7 +57,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "settings.editor.selected.configurable": "http.proxy",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -139,7 +137,7 @@
       <workItem from="1724159605398" duration="6695000" />
       <workItem from="1724166480366" duration="381000" />
       <workItem from="1724166876851" duration="466000" />
-      <workItem from="1724204660570" duration="3895000" />
+      <workItem from="1724204660570" duration="3990000" />
     </task>
     <task id="LOCAL-00001" summary="test1">
       <option name="closed" value="true" />
@@ -205,7 +203,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724166885987</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="complete hw01">
+      <option name="closed" value="true" />
+      <created>1724209277613</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1724209277613</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,7 +234,8 @@
     <MESSAGE value="complete lab00" />
     <MESSAGE value="install lab01" />
     <MESSAGE value="complete lab01" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete lab01" />
+    <MESSAGE value="complete hw01" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete hw01" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
