@@ -187,7 +187,9 @@ def always_roll(n):
     """
     assert n >= 0 and n <= 10
     # BEGIN PROBLEM 6
-    "*** YOUR CODE HERE ***"
+    def identity(x,y):
+        return n
+    return identity
     # END PROBLEM 6
 
 
@@ -218,7 +220,12 @@ def is_always_roll(strategy, goal=GOAL):
     False
     """
     # BEGIN PROBLEM 7
-    "*** YOUR CODE HERE ***"
+    param_str = str(strategy)
+    # 判断字符串是否包含特定字符
+    if 'always' in param_str:
+        return True
+    else:
+        return False
     # END PROBLEM 7
 
 
@@ -234,7 +241,8 @@ def make_averaged(original_function, samples_count=1000):
     3.0
     """
     # BEGIN PROBLEM 8
-    "*** YOUR CODE HERE ***"
+    sum = 0
+
     # END PROBLEM 8
 
 
