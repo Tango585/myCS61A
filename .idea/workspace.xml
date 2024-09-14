@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4270d111-2595-4074-b4c4-6116d3ec500f" name="Changes" comment="complete hog&#10;but dont know how to run gui properly">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2024_8_20_23_18_[Changes]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_2024_8_20_23_18__Changes_.xml" beforeDir="false" />
+    <list default="true" id="4270d111-2595-4074-b4c4-6116d3ec500f" name="Changes" comment="complete hw02">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +158,7 @@
       <workItem from="1726227146422" duration="32000" />
       <workItem from="1726227187416" duration="107000" />
       <workItem from="1726227302721" duration="1219000" />
-      <workItem from="1726299692153" duration="3584000" />
+      <workItem from="1726299692153" duration="6080000" />
     </task>
     <task id="LOCAL-00001" summary="test1">
       <option name="closed" value="true" />
@@ -275,7 +272,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724664228374</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="complete hw02">
+      <option name="closed" value="true" />
+      <created>1726303604468</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1726303604468</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -303,7 +308,8 @@
     <MESSAGE value="testproxy" />
     <MESSAGE value="Question 8 &gt; Suite 3 &gt; Case 3&#10;The answer is 6.0 and i dont know why....." />
     <MESSAGE value="complete hog&#10;but dont know how to run gui properly" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete hog&#10;but dont know how to run gui properly" />
+    <MESSAGE value="complete hw02" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete hw02" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/pythonProject$main.coverage" NAME="main 覆盖结果" MODIFIED="1726301477441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
