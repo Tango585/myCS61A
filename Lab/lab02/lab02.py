@@ -1,3 +1,6 @@
+from cffi.backend_ctypes import xrange
+from gevent.subprocess import value
+
 
 def composite_identity(f, g):
     """
@@ -14,7 +17,12 @@ def composite_identity(f, g):
     False
     """
     "*** YOUR CODE HERE ***"
-
+    def h(x):
+        k = f(g(x)) - g(f(x))
+        if k == 0:
+            return True
+        return False
+    return h
 
 def sum_digits(y):
     """Return the sum of the digits of non-negative integer y."""
@@ -60,6 +68,16 @@ def count_cond(condition):
     8
     """
     "*** YOUR CODE HERE ***"
+    def h(n):
+        count = 0
+        i = 1
+        while i <= n:
+            if condition(n,i) is True:
+                count += 1
+            i += 1
+        return count
+    return h
+
 
 
 def multiple(a, b):
@@ -71,6 +89,12 @@ def multiple(a, b):
     42
     """
     "*** YOUR CODE HERE ***"
+    cur = min(a, b)
+    while 1:
+        if cur % a == 0 and cur % b == 0:
+            return cur
+        cur += 1
+
 
 
 
@@ -101,4 +125,18 @@ def cycle(f1, f2, f3):
     19
     """
     "*** YOUR CODE HERE ***"
+    def apply_functions(n):
+        def result_function(x):
+            result = x
+            for i in range(n):
+                if i % 3 == 0:
+                    result = f1(result)
+                elif i % 3 == 1:
+                    result = f2(result)
+                else:
+                    result = f3(result)
+            return result
 
+        return result_function
+
+    return apply_functions
